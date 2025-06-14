@@ -6,7 +6,6 @@ const profile = {
         this.username = newName;
     },
     updatePlayTime(hours) {
-        totalAmount =
         this.playTime += hours;
     },
     getInfo() {
